@@ -1,0 +1,132 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 08 Mar 2021 19:45:52 at https://themebubble.com/demo/webify/shop +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://themebubble.com/demo/webify/shop -O1 "C:\My Web Sites\ecom1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:45:55	Error: 	"Internal Server Error" (500) after 2 retries at link https://themebubble.com/robots.txt (from primary/primary)
+19:46:36	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/shop/xmlrpc.php?rsd (from https://themebubble.com/demo/webify/shop)
+19:48:19	Warning: 	Retry after error -4 (No data (connection closed)) at link https://webify-13e95.kxcdn.com/demo/webify/shop/wp-content/uploads/sites/18/2019/05/shop01.jpg (from https://themebubble.com/demo/webify/shop)
+19:48:20	Warning: 	Moved Permanently for themebubble.com/robots.txt
+19:48:20	Warning: 	Redirected link is identical because of 'URL Hack' option: themebubble.com/robots.txt and https://themebubble.com/robots.txt
+19:48:20	Warning: 	Warning moved treated for themebubble.com/robots.txt (real one is https://themebubble.com/robots.txt)
+19:48:20	Warning: 	Moved Permanently for themebubble.com/demo/webify/shop/product-category/clothing/accessories/
+19:48:20	Warning: 	Redirected link is identical because of 'URL Hack' option: themebubble.com/demo/webify/shop/product-category/clothing/accessories/ and https://themebubble.com/demo/webify/shop/product-category/clothing/accessories/
+19:48:20	Warning: 	File has moved from themebubble.com/demo/webify/shop/product-category/clothing/accessories/ to https://themebubble.com/demo/webify/shop/product-category/clothing/accessories/
+19:50:15	Warning: 	Retry after error 500 (Internal Server Error) at link https://webify-13e95.kxcdn.com/demo/webify/shop/wp-content/themes/webify/assets/css/img/drag.png (from https://webify-13e95.kxcdn.com/demo/webify/shop/wp-content/cache/min/18/93f42c508d2a83e757eb2f3225de88ea.css)
+19:50:15	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/shop/xmlrpc.php?rsd (from https://themebubble.com/demo/webify/shop)
+19:50:28	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/shop/product-category/clothing/feed/ (from https://themebubble.com/demo/webify/shop/product-category/clothing/)
+19:50:28	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/shop/product-category/clothing/?add-to-cart=13 (from https://themebubble.com/demo/webify/shop/product-category/clothing/)
+19:50:31	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/shop/product-category/clothing/?add-to-cart=30 (from https://themebubble.com/demo/webify/shop/product-category/clothing/)
+19:50:49	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/shop/?p=220
+19:50:49	Warning: 	File has moved from https://themebubble.com/demo/webify/shop/?p=220 to https://themebubble.com/demo/webify/shop/blog/
+19:50:56	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/shop/blog/page/2/ (from https://themebubble.com/demo/webify/shop/blog/)
+19:50:58	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/shop/?p=100
+19:50:58	Warning: 	File has moved from https://themebubble.com/demo/webify/shop/?p=100 to https://themebubble.com/demo/webify/shop/my-account/
+19:51:19	Error: 	"Bad Request" (400) at link https://themebubble.com/demo/webify/shop/wp-admin/admin-ajax.php (from https://themebubble.com/demo/webify/shop/my-account/)
+19:51:20	Warning: 	Retry after error -4 (No data (connection closed)) at link https://webify-13e95.kxcdn.com/demo/webify/shop/wp-content/themes/webify/assets/css/shortcodes/cta.css?ver=1.0.0 (from https://themebubble.com/demo/webify/shop/my-account/)
+19:51:21	Warning: 	Retry after error -4 (No data (connection closed)) at link https://webify-13e95.kxcdn.com/demo/webify/shop/wp-includes/js/imagesloaded.min.js?ver=4.1.4 (from https://themebubble.com/demo/webify/shop/my-account/)
+19:51:21	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/shop/?p=92
+19:51:21	Warning: 	File has moved from https://themebubble.com/demo/webify/shop/?p=92 to https://themebubble.com/demo/webify/shop/cart/
+19:51:21	Warning: 	Found for https://themebubble.com/demo/webify/shop/cart/?remove_item=c51ce410c124a10e0db5e4b97fc2af39&_wpnonce=c7b6e369df
+19:51:21	Warning: 	File has moved from https://themebubble.com/demo/webify/shop/cart/?remove_item=c51ce410c124a10e0db5e4b97fc2af39&_wpnonce=c7b6e369df to http://themebubble.com/demo/webify/shop/cart/?removed_item=1
+19:51:27	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/shop/product/album/feed/ (from https://themebubble.com/demo/webify/shop/product/album/)
+19:51:27	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/shop/?p=21
+19:51:27	Warning: 	File has moved from https://themebubble.com/demo/webify/shop/?p=21 to https://themebubble.com/demo/webify/shop/product/album/
+19:51:28	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/shop/?p=13
+19:51:28	Warning: 	File has moved from https://themebubble.com/demo/webify/shop/?p=13 to https://themebubble.com/demo/webify/shop/product/beanie/
+19:51:37	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/shop/wp-content/uploads/sites/18/2019/05/shop01.jpg (from https://themebubble.com/demo/webify/shop/?add-to-cart=13)
+19:51:37	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/shop/wp-content/uploads/sites/18/2019/05/shop02.jpg (from https://themebubble.com/demo/webify/shop/?add-to-cart=13)
+19:51:37	Warning: 	Retry after error -4 (No data (connection closed)) at link themebubble.com/demo/webify/shop/wp-content/uploads/sites/18/2019/05/shop08.jpg (from https://themebubble.com/demo/webify/shop/?add-to-cart=13)
+19:51:39	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/shop/wp-content/uploads/sites/18/2019/06/r5thd-aymps.jpg (from https://themebubble.com/demo/webify/shop/?add-to-cart=13)
+19:51:44	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/shop/wp-includes/js/imagesloaded.min.js?ver=4.1.4 (from https://themebubble.com/demo/webify/shop/?add-to-cart=13)
+19:51:44	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/shop/?p=30
+19:51:44	Warning: 	File has moved from https://themebubble.com/demo/webify/shop/?p=30 to https://themebubble.com/demo/webify/shop/product/beanie-with-logo/
+19:51:44	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/shop/?p=14
+19:51:44	Warning: 	File has moved from https://themebubble.com/demo/webify/shop/?p=14 to https://themebubble.com/demo/webify/shop/product/belt/
+19:51:44	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/shop/?p=15
+19:51:44	Warning: 	File has moved from https://themebubble.com/demo/webify/shop/?p=15 to https://themebubble.com/demo/webify/shop/product/cap/
+19:51:44	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/shop/?p=10
+19:51:44	Warning: 	File has moved from https://themebubble.com/demo/webify/shop/?p=10 to https://themebubble.com/demo/webify/shop/product/hoodie/
+19:51:44	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/shop/?p=9
+19:51:44	Warning: 	File has moved from https://themebubble.com/demo/webify/shop/?p=9 to https://themebubble.com/demo/webify/shop/product/v-neck-t-shirt/
+19:51:44	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/shop/product/v-neck-t-shirt/?add-to-cart=12 (from https://themebubble.com/demo/webify/shop/product/v-neck-t-shirt/)
+19:51:44	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/shop/product-category/clothing/tshirts/feed/ (from https://themebubble.com/demo/webify/shop/product-category/clothing/tshirts/)
+19:51:44	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/shop/product-category/clothing/tshirts/?add-to-cart=12 (from https://themebubble.com/demo/webify/shop/product-category/clothing/tshirts/)
+19:51:45	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/shop/?p=11
+19:51:45	Warning: 	File has moved from https://themebubble.com/demo/webify/shop/?p=11 to https://themebubble.com/demo/webify/shop/product/hoodie-with-logo/
+19:51:45	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/shop/?p=12
+19:51:45	Warning: 	File has moved from https://themebubble.com/demo/webify/shop/?p=12 to https://themebubble.com/demo/webify/shop/product/t-shirt/
+19:51:45	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/shop/?p=215
+19:51:45	Warning: 	File has moved from https://themebubble.com/demo/webify/shop/?p=215 to https://themebubble.com/demo/webify/shop/2019/04/15/the-thin-blur-line-between-corporate-lifestyle-other-things/
+19:51:55	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/shop/?p=214
+19:51:55	Warning: 	File has moved from https://themebubble.com/demo/webify/shop/?p=214 to https://themebubble.com/demo/webify/shop/2019/04/15/halfway-though-a-decade-more/
+19:51:55	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/shop/?p=213
+19:51:55	Warning: 	File has moved from https://themebubble.com/demo/webify/shop/?p=213 to https://themebubble.com/demo/webify/shop/2019/04/15/how-to-live-a-balanced-life-like-everyone/
+19:51:55	Warning: 	Retry after error 500 (Internal Server Error) at link https://webify-13e95.kxcdn.com/demo/webify/shop/wp-content/themes/webify/assets/css/img/drag.png (from https://webify-13e95.kxcdn.com/demo/webify/shop/wp-content/cache/min/18/93f42c508d2a83e757eb2f3225de88ea.css)
+19:51:55	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://themebubble.com/demo/webify/shop/xmlrpc.php?rsd (from https://themebubble.com/demo/webify/shop)
+19:51:55	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/shop/wp-content/uploads/sites/18/2019/06/isyapvdzb5i.jpg (from https://themebubble.com/demo/webify/shop/shop/?add-to-cart=13)
+19:51:55	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/shop/?p=32
+19:51:55	Warning: 	File has moved from https://themebubble.com/demo/webify/shop/?p=32 to https://themebubble.com/demo/webify/shop/product/wordpress-pennant/
+19:51:56	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/shop/wp-json/wp/v2/posts/204 (from https://themebubble.com/demo/webify/shop/2019/04/15/what-to-expect-in-a-changed-lifestyle/)
+19:51:56	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/shop/?p=204
+19:51:56	Warning: 	File has moved from https://themebubble.com/demo/webify/shop/?p=204 to https://themebubble.com/demo/webify/shop/2019/04/15/what-to-expect-in-a-changed-lifestyle/
+19:51:56	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/shop/?p=206
+19:51:56	Warning: 	File has moved from https://themebubble.com/demo/webify/shop/?p=206 to https://themebubble.com/demo/webify/shop/2019/04/15/a-brief-history-of-everything-in-between/
+19:51:56	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/shop/?p=208
+19:51:56	Warning: 	File has moved from https://themebubble.com/demo/webify/shop/?p=208 to https://themebubble.com/demo/webify/shop/2019/04/15/sublime-art-of-not-worrying-at-all/
+19:51:56	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/shop/?p=210
+19:51:56	Warning: 	File has moved from https://themebubble.com/demo/webify/shop/?p=210 to https://themebubble.com/demo/webify/shop/2019/04/15/the-life-hack-you-might-think-you-know/
+19:51:56	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/shop/category/lifestyle/feed/ (from https://themebubble.com/demo/webify/shop/category/lifestyle/)
+19:51:57	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/shop/?p=212
+19:51:57	Warning: 	File has moved from https://themebubble.com/demo/webify/shop/?p=212 to https://themebubble.com/demo/webify/shop/2019/04/15/there-will-be-a-time-when-it-all-goes-against-you/
+19:51:57	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/shop/?p=211
+19:51:57	Warning: 	File has moved from https://themebubble.com/demo/webify/shop/?p=211 to https://themebubble.com/demo/webify/shop/2019/04/15/smashing-dreams-more-of-it/
+19:51:59	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/shop/?p=112
+19:51:59	Warning: 	File has moved from https://themebubble.com/demo/webify/shop/?p=112 to https://themebubble.com/demo/webify/shop/privacy/
+19:51:59	Error: 	"Not Found" (404) at link https://webify-13e95.kxcdn.com/demo/webify/shop/wp-content/themes/webify/assets/css/Flaticon.svg (from https://webify-13e95.kxcdn.com/demo/webify/shop/wp-content/themes/webify/assets/css/flaticon.css?ver=1.0.0)
+19:51:59	Warning: 	Moved Permanently for themebubble.com/demo/webify/shop/cart/?removed_item=1
+19:51:59	Warning: 	Redirected link is identical because of 'URL Hack' option: themebubble.com/demo/webify/shop/cart/?removed_item=1 and https://themebubble.com/demo/webify/shop/cart/?removed_item=1
+19:51:59	Warning: 	File has moved from themebubble.com/demo/webify/shop/cart/?removed_item=1 to https://themebubble.com/demo/webify/shop/cart/?removed_item=1
+19:51:59	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/shop/?p=95
+19:51:59	Warning: 	File has moved from https://themebubble.com/demo/webify/shop/?p=95 to https://themebubble.com/demo/webify/shop/checkout/
+19:51:59	Warning: 	Found for https://themebubble.com/demo/webify/shop/cart/?undo_item=c51ce410c124a10e0db5e4b97fc2af39&_wpnonce=c7b6e369df
+19:51:59	Warning: 	File has moved from https://themebubble.com/demo/webify/shop/cart/?undo_item=c51ce410c124a10e0db5e4b97fc2af39&_wpnonce=c7b6e369df to http://themebubble.com/demo/webify/shop/checkout/
+19:51:59	Warning: 	File not parsed, looks like binary: https://themebubble.com/demo/webify/shop/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.9.1
+19:51:59	Warning: 	File not parsed, looks like binary: https://themebubble.com/demo/webify/shop/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+19:51:59	Warning: 	Moved Permanently for themebubble.com/demo/webify/shop/wp-content/uploads/sites/18/2019/05/shop08.jpg
+19:51:59	Warning: 	Redirected link is identical because of 'URL Hack' option: themebubble.com/demo/webify/shop/wp-content/uploads/sites/18/2019/05/shop08.jpg and https://themebubble.com/demo/webify/shop/wp-content/uploads/sites/18/2019/05/shop08.jpg
+19:51:59	Warning: 	Warning moved treated for themebubble.com/demo/webify/shop/wp-content/uploads/sites/18/2019/05/shop08.jpg (real one is https://themebubble.com/demo/webify/shop/wp-content/uploads/sites/18/2019/05/shop08.jpg)
+19:51:59	Error: 	"Not Found" (404) at link https://themebubble.com/demo/webify/shop/wp-content/themes/webify/assets/css/Flaticon.svg (from https://themebubble.com/demo/webify/shop/wp-content/themes/webify/assets/css/flaticon.css?ver=1.0.0)
+19:51:59	Warning: 	Retry after error 500 (Internal Server Error) at link https://themebubble.com/demo/webify/shop/wp-content/themes/webify/assets/css/img/drag.png (from https://themebubble.com/demo/webify/shop/wp-content/themes/webify/assets/css/shortcodes/slider.css?ver=1.0.0)
+19:51:59	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/shop/product/v-neck-t-shirt/?add-to-cart=12 (from https://themebubble.com/demo/webify/shop/product/v-neck-t-shirt/)
+19:51:59	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/shop/product-category/clothing/tshirts/?add-to-cart=12 (from https://themebubble.com/demo/webify/shop/product-category/clothing/tshirts/)
+19:52:11	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/shop/author/developmentthemebubble/page/1/
+19:52:11	Warning: 	File has moved from https://themebubble.com/demo/webify/shop/author/developmentthemebubble/page/1/ to https://themebubble.com/demo/webify/shop/author/developmentthemebubble/
+19:52:11	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/shop/?p=202
+19:52:11	Warning: 	File has moved from https://themebubble.com/demo/webify/shop/?p=202 to https://themebubble.com/demo/webify/shop/2019/04/15/the-future-of-south-lies-in-secret/
+19:52:11	Error: 	"Internal Server Error" (500) after 2 retries at link https://webify-13e95.kxcdn.com/demo/webify/shop/wp-content/themes/webify/assets/css/img/drag.png (from https://webify-13e95.kxcdn.com/demo/webify/shop/wp-content/cache/min/18/93f42c508d2a83e757eb2f3225de88ea.css)
+19:52:11	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/shop/category/lifestyle/page/1/
+19:52:11	Warning: 	File has moved from https://themebubble.com/demo/webify/shop/category/lifestyle/page/1/ to https://themebubble.com/demo/webify/shop/category/lifestyle/
+19:52:11	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/shop/blog/page/1/
+19:52:11	Warning: 	File has moved from https://themebubble.com/demo/webify/shop/blog/page/1/ to https://themebubble.com/demo/webify/shop/blog/
+19:52:11	Warning: 	Retry after error 500 (Internal Server Error) at link https://themebubble.com/demo/webify/shop/wp-content/themes/webify/assets/css/img/drag.png (from https://themebubble.com/demo/webify/shop/wp-content/themes/webify/assets/css/shortcodes/slider.css?ver=1.0.0)
+19:52:12	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/shop/tag/food/page/1/
+19:52:12	Warning: 	File has moved from https://themebubble.com/demo/webify/shop/tag/food/page/1/ to https://themebubble.com/demo/webify/shop/tag/food/
+19:52:12	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/shop/tag/fun/page/1/
+19:52:12	Warning: 	File has moved from https://themebubble.com/demo/webify/shop/tag/fun/page/1/ to https://themebubble.com/demo/webify/shop/tag/fun/
+19:52:12	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/shop/tag/office/page/1/ (from https://themebubble.com/demo/webify/shop/tag/office/page/2/)
+19:52:12	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/shop/tag/workspace/page/1/
+19:52:12	Warning: 	File has moved from https://themebubble.com/demo/webify/shop/tag/workspace/page/1/ to https://themebubble.com/demo/webify/shop/tag/workspace/
+19:52:12	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/shop/?p=118
+19:52:12	Warning: 	File has moved from https://themebubble.com/demo/webify/shop/?p=118 to https://themebubble.com/demo/webify/shop/2019/04/13/hello/
+19:52:12	Error: 	"Internal Server Error" (500) after 2 retries at link https://themebubble.com/demo/webify/shop/wp-content/themes/webify/assets/css/img/drag.png (from https://themebubble.com/demo/webify/shop/wp-content/themes/webify/assets/css/shortcodes/slider.css?ver=1.0.0)
+19:52:12	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/shop/wp-content/uploads/sites/18/2019/05/vnech-tee-green-1-600x600.jpg (from https://themebubble.com/demo/webify/shop/product/v-neck-t-shirt/?add-to-cart=12)
+19:52:12	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/shop/wp-content/uploads/sites/18/2019/05/vnech-tee-blue-1.jpg (from https://themebubble.com/demo/webify/shop/product/v-neck-t-shirt/?add-to-cart=12)
+19:52:13	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/shop/tag/office/page/1/
+19:52:13	Warning: 	File has moved from https://themebubble.com/demo/webify/shop/tag/office/page/1/ to https://themebubble.com/demo/webify/shop/tag/office/
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 22 seconds : 604 links scanned, 528 files written (37973981 bytes overall) [18095702 bytes received at 47370 bytes/sec], 26829940 bytes transferred using HTTP compression in 393 files, ratio 24%, 6.6 requests per connection
+(7 errors, 114 warnings, 0 messages)
